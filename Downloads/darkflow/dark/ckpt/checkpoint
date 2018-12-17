@@ -1,0 +1,2 @@
+model_checkpoint_path: "yolov2-tiny-voc-3c-6250"
+all_model_checkpoint_paths: "yolov2-tiny-voc-3c-6250"
